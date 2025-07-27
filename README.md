@@ -1,1 +1,2 @@
 # Course-Registration-System
+This Course Registration System is an online platform designed to streamline course management for students, lecturers, and administrators. Students can register for courses, update profiles, and view academic records. Lecturers manage their assigned courses and access student information. Administrators maintain the system, handle course data, and oversee registrations—all within an efficient and user-friendly interface.
